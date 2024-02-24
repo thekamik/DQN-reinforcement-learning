@@ -7,7 +7,7 @@ In this project, the DQN algorithm is employed to solve the CartPole Gymnasium e
 [Gymnasium Cart Pole](https://gymnasium.farama.org/environments/classic_control/cart_pole/)
 
 2. To run this code you need to install: <br />
-   a.) Install the PyTorch library (this code was developed using pytorch 2.2.1 with CUDA 12.1 support on windows machine):<br />
+   a.) Install the PyTorch library (this code was developed using pytorch 2.2.1 with CUDA 12.1 support on a windows machine):<br />
    ```sh
    pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
    ```
@@ -18,6 +18,10 @@ In this project, the DQN algorithm is employed to solve the CartPole Gymnasium e
    c.) Install matplotlib
    ```
    pip install matplotlib
+   ```
+   d.) Install NumPy
+   ```
+   pip install numpy
    ```
    <br />
 
