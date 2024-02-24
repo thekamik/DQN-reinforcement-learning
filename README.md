@@ -20,7 +20,7 @@ In this project, the DQN algorithm is employed to solve the CartPole Gymnasium e
    pip install matplotlib
    ```
 
-3. Here is chart with model performance:
+3. Here is chart with model performance: <br />
    ![Performance](https://github.com/thekamik/DQN-reinforcement-learning/blob/main/training_result.png)
 
    
