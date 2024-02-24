@@ -1,5 +1,5 @@
 # DQN-reinforcement-learning
-Solving gymnasium pole card problem with DQN learning with PyTorch
+Solving gymnasium pole cart problem with DQN learning with PyTorch
 
 1. This project was developed to implement a Deep Q-Network (DQN) for reinforcement learning tasks using PyTorch. <br />
 This code serves as an example of agent training to interact with an environment, learn optimal actions, and maximize episode duration. <br />
