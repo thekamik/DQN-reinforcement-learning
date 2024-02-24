@@ -21,7 +21,7 @@ In this project, the DQN algorithm is employed to solve the CartPole Gymnasium e
    ```
 
 3. Here is chart with model performance:
-   ![Performance](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+   ![Performance]([https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png](https://github.com/thekamik/DQN-reinforcement-learning/blob/main/training_result.png)https://github.com/thekamik/DQN-reinforcement-learning/blob/main/training_result.png)
 
    
 4. If you find a bug or have an idea to improve the program, please e-mail me.
