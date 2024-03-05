@@ -178,7 +178,7 @@ class Agent:
         self.target_net.load_state_dict(target_net_state_dict)
 
         # Return observation - new state
-        return observation
+        return next_state
 
 
     def plot_durations(self, reward, show_result=False):
@@ -216,7 +216,7 @@ class Agent:
 
 
 if __name__ == "__main__":
-    # env = gym.make("Blackjack-v1", natural=False, sab=False, render_mode="human")
+    # Create enviroment
     env = gym.make("CartPole-v1", render_mode="human")
 
     # enable dinamic update
